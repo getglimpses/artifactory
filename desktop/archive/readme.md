@@ -1,3 +1,3 @@
 ### Nupkg artifactory
-- [ ] RELEASES
-- [ ] full.nupkg
+- [x] RELEASES
+- [x] full.nupkg
